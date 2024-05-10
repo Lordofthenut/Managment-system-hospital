@@ -1,0 +1,3 @@
+Doctor,John,45,Cardiology
+Nurse,Alice,30,ER
+Patient,Mark,55,Heart Disease,Dr. Smith,Nurse Johnson
